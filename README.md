@@ -53,3 +53,13 @@ The project uses four tables:
 ---
 
 ## Project Structure
+ecommerce-sql-analysis/
+
+
+├── schema.sql # Database creation scripts
+
+├── data_insert.sql # Insert sample dataset
+
+├── analysis_queries.sql # SQL queries for analysis
+
+└── README.md # Project description and instructions
